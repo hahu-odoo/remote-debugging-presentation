@@ -19,3 +19,4 @@ To follow along with the slides, you should have the following configured before
 4. Trial SH database created for Odoo 19.0.
     - If you are following along after this presentation has already happened, ask FSRS for a trial SH code to use while you work through these slides.
 5. Custom modules from this repo uploaded to your trial SH DB.
+6. Install the Sales app and create a few, fun products 🙂
