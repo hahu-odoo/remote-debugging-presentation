@@ -18,5 +18,5 @@ To follow along with the slides, you should have the following configured before
     - You can just copy-and-paste that function into your `.bashrc` file and then edit `destination_path` local variable.
 4. Trial SH database created for Odoo 19.0.
     - If you are following along after this presentation has already happened, ask FSRS for a trial SH code to use while you work through these slides.
-5. Custom modules from this repo uploaded to your trial SH DB.
+5. Custom module from this repo uploaded to your trial SH DB.
 6. Install the Sales app and create a few, fun products 🙂
