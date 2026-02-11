@@ -7,6 +7,7 @@ class SaleOrder(models.Model):
     SIX_SEVEN = 67
     
     def action_confirm(self):
-        super().action_confirm
+        res = super().action_confirm()
         for line in self.order_line:
             line.price_subtotal = self.SIX_SEVEN
+        return res
